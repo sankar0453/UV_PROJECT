@@ -28,6 +28,7 @@ uv python install
 uv python install 3.12
 
 uv venv
+
 .venv\Scripts\activate
 
 (first_demo) D:\agno-workspace\UV_PROJECT\first_demo>
