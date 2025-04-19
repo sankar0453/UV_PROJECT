@@ -37,3 +37,7 @@ uv add numpy
 uv add -r requirementx.txt
 
 uv run main.py
+
+uv sync
+
+uv lock
